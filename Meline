@@ -1,0 +1,13 @@
+git config --global user.name "HovsepyanMeline10" - Configure the username
+git config --global user.email "meline-95@mail.ru" - Configure the email
+git config --global core.editor vim - Choose the editor
+git init - create a new local repository
+git clone + link - clone the repository
+git add "file name" - add file
+git status -s - know status
+git branch "branch name" - add branch
+git checkout "branch name" - switch from one braanch to another
+git pull - Fetch and merge changes on the remote server
+git push --all origin Push all branches to your remote repository
+git commit-Commit changes
+git diff-View all the merge conflicts
